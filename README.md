@@ -1,1 +1,1 @@
-# kata1
+# dumb vector problem
